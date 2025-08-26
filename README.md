@@ -1,2 +1,2 @@
 # MySQL_PowerBI
-Energy Consumption and Banking Customer Segmentation
+Energy Consumption and HR Dashboard
