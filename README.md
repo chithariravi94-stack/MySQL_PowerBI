@@ -1,2 +1,2 @@
-# MySQL_PowerBI
-Energy Consumption and HR Dashboard
+#PowerBI
+HR Dashboard
